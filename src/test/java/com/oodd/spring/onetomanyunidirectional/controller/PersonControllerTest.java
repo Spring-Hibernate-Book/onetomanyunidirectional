@@ -28,7 +28,6 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
 import com.oodd.spring.onetomanyunidirectional.dto.PersonDto;
-import com.oodd.spring.standalone.dto.ProductDto;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @WebAppConfiguration
